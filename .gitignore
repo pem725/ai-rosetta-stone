@@ -1,0 +1,13 @@
+# Local Claude Code settings (per-machine permission allowlists, etc.)
+.claude/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor scratch
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
