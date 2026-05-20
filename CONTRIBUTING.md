@@ -42,9 +42,14 @@ A few conventions the existing content follows — please match them so the doc 
 4. **Tier renames are a story worth keeping visible.** When you update a price or feature name, also update the **"Branding changes since early 2026"** callout in the pricing section so the rename history stays surfaced. Future readers searching for the old name need to find their way to the new one.
 5. **Cite uncertainty.** If a fact isn't clearly documented, it's better to flag it as uncertain than to guess.
 
-## Updating the "last verified" footer
+## Updating the "last verified" date (two places)
 
-When you update SKILL.md, update the date in the footer at the bottom: `*Last verified: [Month Year]...*` Use the current month.
+When you re-verify content against official docs, update the date in **both** places — they're kept in sync manually:
+
+1. **`SKILL.md` footer** — the `*Last verified: [Month Year]...*` line at the bottom of the file.
+2. **`README.md` badge URL** — the "Last verified" badge near the top of the README. Edit the `verified-[Month]%20[Year]` segment of the shields.io URL (`%20` is URL-encoded space). Example: `verified-May%202026-success` becomes `verified-November%202026-success`.
+
+If you only update one, the README will lie to readers. Update both in the same PR.
 
 ## Updating the bundled .zip
 
