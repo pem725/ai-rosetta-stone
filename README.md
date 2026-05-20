@@ -1,5 +1,11 @@
 # AI Rosetta Stone
 
+[![Latest release](https://img.shields.io/github/v/release/pem725/ai-rosetta-stone?label=release&color=blue)](https://github.com/pem725/ai-rosetta-stone/releases/latest)
+[![License: MIT](https://img.shields.io/github/license/pem725/ai-rosetta-stone?color=brightgreen)](LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/pem725/ai-rosetta-stone/total?color=informational)](https://github.com/pem725/ai-rosetta-stone/releases)
+[![Last verified](https://img.shields.io/badge/verified-May%202026-success)](SKILL.md)
+[![Claude Skill](https://img.shields.io/badge/Claude-Skill-D97757)](https://docs.claude.com)
+
 A Claude skill that translates Claude concepts and terminology to **ChatGPT, Gemini, and Microsoft Copilot** equivalents. Built for Claude users who want to help friends and colleagues on other platforms get set up fast.
 
 ## What This Does
