@@ -3,7 +3,7 @@
 [![Latest release](https://img.shields.io/github/v/release/pem725/ai-rosetta-stone?label=release&color=blue)](https://github.com/pem725/ai-rosetta-stone/releases/latest)
 [![License: MIT](https://img.shields.io/github/license/pem725/ai-rosetta-stone?color=brightgreen)](LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/pem725/ai-rosetta-stone/total?color=informational)](https://github.com/pem725/ai-rosetta-stone/releases)
-[![Last verified](https://img.shields.io/badge/verified-May%202026-success)](SKILL.md)
+[![Last verified](https://img.shields.io/badge/verified-July%202026-success)](SKILL.md)
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-D97757)](https://docs.claude.com)
 
 A Claude skill that translates Claude concepts and terminology to **ChatGPT, Gemini, and Microsoft Copilot** equivalents. Built for Claude users who want to help friends and colleagues on other platforms get set up fast.
@@ -46,7 +46,7 @@ Just reference the skill when helping someone:
 
 ## Maintenance
 
-AI platforms change features constantly. The `SKILL.md` footer notes the last-verified date (currently **May 2026**). Update the skill when platforms ship major feature changes or rename tiers — the latter happens roughly quarterly across all four vendors.
+AI platforms change features constantly. The `SKILL.md` footer notes the last-verified date (currently **July 2026**). Update the skill when platforms ship major feature changes or rename tiers — the latter happens roughly quarterly across all four vendors, and the May→July 2026 cycle brought both plus a new brand collision ("Cowork").
 
 When updating, verify against official docs:
 - Claude: [docs.claude.com](https://docs.claude.com), [support.claude.com](https://support.claude.com)
